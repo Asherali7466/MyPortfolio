@@ -127,12 +127,12 @@ export const SkillsInfo = [
   export const education = [
     {
       id: 0,
-      img: highschoolLogo,
-      school: "Dr.Virendra Swaroop Public School, Kanpur",
-      date: "Apr 2020 - Mar 2021",
-      grade: "88%",
-      desc: "I completed my high school education from Dr. Virendra Swaroop Public School, achieving 88% in the ICSE Board examinations. This accomplishment reflects my dedication, strong academic foundation, and consistent hard work. My time at school not only strengthened my knowledge in core subjects but also helped me develop discipline, critical thinking, and effective time management skills that continue to guide my personal and academic journey.",
-      degree: "High School",
+      img: bachelorsLogo,
+      school: "Pranveer Singh Institute of Technology , Kanpur",
+      date: "Oct 2023 - July 2027",
+      grade: "8.26 CGPA",
+      desc: "I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at Pranveer Singh Institute of Technology, now in my 5th semester. I have maintained a strong academic record, achieving an aggregate CGPA of 8.26 up to the 3rd semester. This journey has deepened my technical expertise, problem-solving skills, and understanding of advanced computing concepts, while fostering a strong foundation for innovation and future growth in the field of technology.",
+      degree: "B.Tech - Computer Science and Engineering",
     },
     {
       id: 1,
@@ -145,13 +145,14 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      img: bachelorsLogo,
-      school: "Pranveer Singh Institute of Technology , Kanpur",
-      date: "Oct 2023 - July 2027",
-      grade: "8.26 CGPA",
-      desc: "I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at Pranveer Singh Institute of Technology, now in my 5th semester. I have maintained a strong academic record, achieving an aggregate CGPA of 8.26 up to the 3rd semester. This journey has deepened my technical expertise, problem-solving skills, and understanding of advanced computing concepts, while fostering a strong foundation for innovation and future growth in the field of technology.",
-      degree: "B.Tech - Computer Science and Engineering",
+      img: highschoolLogo,
+      school: "Dr.Virendra Swaroop Public School, Kanpur",
+      date: "Apr 2020 - Mar 2021",
+      grade: "88%",
+      desc: "I completed my high school education from Dr. Virendra Swaroop Public School, achieving 88% in the ICSE Board examinations. This accomplishment reflects my dedication, strong academic foundation, and consistent hard work. My time at school not only strengthened my knowledge in core subjects but also helped me develop discipline, critical thinking, and effective time management skills that continue to guide my personal and academic journey.",
+      degree: "High School",
     },
+    
   ];
   
   export const projects = [
